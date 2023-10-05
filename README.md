@@ -1,4 +1,4 @@
-# Noten-AppV1
+# Noten-AppV2
 Eine App von Captain556788 zum Speichern und automatischem Ausrechnen Ihrer Noten.
 Mit intigriertem Stundenplan, Updatekasten, Notizblock, usw...
 
