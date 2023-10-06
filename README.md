@@ -12,7 +12,7 @@ Mit intigriertem Stundenplan, Updatekasten, Notizblock, usw...
 	-> Entpacken
 
 3. Ausführen:
-	-> im Entpacktem Ordner die "NotenApp.exe" ausführen (doppelklick)
+	-> im Entpacktem Ordner die "Noten-App.exe" ausführen (doppelklick)
 
 
 ####################### HINWEIS ############################
