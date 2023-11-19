@@ -1,4 +1,4 @@
-# Noten-AppV1
+# Noten-App
 Eine App von Captain556788 zum Speichern und automatischem Ausrechnen Ihrer Noten.
 Mit intigriertem Stundenplan, Updatekasten, Notizblock, usw...
 
@@ -12,7 +12,7 @@ Mit intigriertem Stundenplan, Updatekasten, Notizblock, usw...
 	-> Entpacken
 
 3. Ausführen:
-	-> im Entpacktem Ordner die "NotenApp.exe" ausführen (doppelklick)
+	-> im Entpacktem Ordner die "Noten-App.exe" ausführen (doppelklick)
 
 
 ####################### HINWEIS ############################
